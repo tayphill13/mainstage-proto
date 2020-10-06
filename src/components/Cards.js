@@ -16,7 +16,7 @@ function Cards() {
               label='NewArtists'
               path='/Artists' />
             <CardItem
-              src='images/new-artist2.jpg'
+              src='images/musicImg-2.jpg'
               text="What's the point of this here, MainStage?"
               label='About'
               path='/About' />
