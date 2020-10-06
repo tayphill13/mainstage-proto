@@ -28,6 +28,15 @@ function Footer() {
       <div className='footer-links'>
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
+            <h2>Social Media</h2>
+            <Link to='/'>Instagram</Link>
+            <Link to='/'>Facebook</Link>
+            <Link to='/'>Youtube</Link>
+            <Link to='/contact'>Twitter</Link>
+          </div>
+        </div>
+        <div className='footer-link-wrapper'>
+          <div className='footer-link-items'>
             <h2>Contact Me</h2>
             <Link to='/'>My Github</Link>
             <Link to='/'>My LinkedIn</Link>
@@ -36,21 +45,12 @@ function Footer() {
             {/* <Link to='/'></Link> */}
           </div>
         </div>
-        <div className='footer-link-wrapper'>
-          <div className='footer-link-items'>
-            <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
-            <Link to='/'>Youtube</Link>
-            <Link to='/contact'>Twitter</Link>
-          </div>
-        </div>
       </div>
       <section className='social-media'>
         <div className='social-media-wrap'>
           <div className="footer-logo">
             <Link to='/' className='social-logo'>
-              MainStage <i className='fab fa-typo3' />
+              MainStage <i className='fas fa-couch' />
             </Link>
           </div>
         </div>
