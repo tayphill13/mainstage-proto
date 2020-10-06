@@ -1,5 +1,7 @@
 import React from 'react';
 import CardItem from './CardItem';
+import './Cards.css';
+
 
 function Cards() {
   return (
@@ -8,7 +10,21 @@ function Cards() {
       <div className="cards__container">
         <div className='cards__wrapper'>
           <ul className='cards__items'>
-            <CardItem />
+            <CardItem
+              src='images/new-artist.jpg'
+              text='Explore some new music from home'
+              label='NewArtists'
+              path='/Artists' />
+            <CardItem
+              src='images/new-artist2.jpg'
+              text="What's the point of this?"
+              label='About'
+              path='/About' />
+            <CardItem
+              src='images/new-artist3.jpg'
+              text='What are the artists up to?'
+              label='Artists'
+              path='/Artists' />
           </ul>
         </div>
       </div>  
