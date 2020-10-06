@@ -1,14 +1,17 @@
 import React from 'react';
 import logo from './logo.svg';
 import Navbar from '../components/Navbar'
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Main Stage</h1>
+    <Router>
       <Navbar />
-    </div>
+      <Switch>
+        <Route path='/' exact />
+      </Switch>
+    </Router>
   );
 }
 
