@@ -42,7 +42,7 @@ window.addEventListener('resize', showButton);
               </Link>
             </li>
             <li className='nav-item'>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/artists' className='nav-links' onClick={closeMobileMenu}>
                 Artists
               </Link>
             </li>
