@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 import { Button } from './Button';
@@ -30,7 +30,7 @@ window.addEventListener('resize', showButton);
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className="navbar-logo" onCLick={closeMobileMenu}>
-            Main Stage <i className='fab fa-typo3' />
+            MainStage <i className='fab fa-typo3' />
           </Link>
           <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
@@ -47,17 +47,17 @@ window.addEventListener('resize', showButton);
               </Link>
             </li>
             <li className='nav-item'>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/about' className='nav-links' onClick={closeMobileMenu}>
                 About
               </Link>
             </li>
             <li className='nav-item'>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/contact' className='nav-links' onClick={closeMobileMenu}>
               ContactMe
             </Link>
             </li>
             <li className='nav-item'>
-              <Link to='/' className='nav-links-mobile' onClick={closeMobileMenu}>
+              <Link to='/sign-up' className='nav-links-mobile' onClick={closeMobileMenu}>
               Sign Up
               </Link>
             </li>
@@ -67,7 +67,7 @@ window.addEventListener('resize', showButton);
       </nav>
 
     </>
-  )
+  );
 }
 
-export default NavBar
+export default NavBar;
