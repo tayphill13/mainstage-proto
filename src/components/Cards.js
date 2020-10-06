@@ -17,14 +17,14 @@ function Cards() {
               path='/Artists' />
             <CardItem
               src='images/new-artist2.jpg'
-              text="What's the point of this?"
+              text="What's the point of this here, MainStage?"
               label='About'
               path='/About' />
             <CardItem
               src='images/new-artist3.jpg'
-              text='What are the artists up to?'
-              label='Artists'
-              path='/Artists' />
+              text="Have some fresh ideas about what you'd like this site to offer?"
+              label='Contact Me'
+              path='/Contact' />
           </ul>
         </div>
       </div>  

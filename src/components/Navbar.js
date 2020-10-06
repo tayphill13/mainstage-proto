@@ -29,7 +29,7 @@ window.addEventListener('resize', showButton);
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to='/' className="navbar-logo" onCLick={closeMobileMenu}>
+          <Link to='/' className="navbar-logo" onClick={closeMobileMenu}>
             MainStage <i className='fab fa-typo3' />
           </Link>
           <div className='menu-icon' onClick={handleClick}>

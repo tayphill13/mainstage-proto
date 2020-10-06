@@ -21,7 +21,7 @@
   color: whitesmoke;
   padding: 8px 20px;
   border: 1px solid var(--primary);
-  tansition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
 }
 
 .btn--medium {
@@ -36,7 +36,8 @@
 
 .btn--medium:hover, 
 .btn--large:hover {
+  transition: all 0.3s ease-out;
   background: whitesmoke;
   color: #242424;
-  transition: all 0.3s ease-out;
+  transition: 250ms;
 }
