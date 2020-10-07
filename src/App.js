@@ -8,6 +8,7 @@ import Artists from './components/pages/Artists';
 import Contact from './components/pages/Contact';
 import About from './components/pages/About';
 import SignUp from './components/pages/SignUp';
+import SignIn from './components/pages/SignIn';
 import Music from './components/pages/Music';
 
 function App() {
@@ -18,9 +19,10 @@ function App() {
         <Route path='/' exact component={Home} />
         <Route path='/artists' component={Artists} />
         <Route path='/about' component={About} />
-        <Route path='/music' componentn={Music} />
+        <Route path='/music' component={Music} />
         <Route path='/contact' component={Contact} />
         <Route path='/sign-up' component={SignUp} />
+        <Route path='/sign-in' component={SignIn} />
       </Switch>
       <Footer />
     </Router>
