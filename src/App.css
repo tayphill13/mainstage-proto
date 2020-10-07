@@ -10,6 +10,7 @@
 .about,
 .music,
 .contact,
+.sign-in,
 .sign-up {
   display: flex;
   height: 90vh;

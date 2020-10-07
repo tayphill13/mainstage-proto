@@ -38,10 +38,10 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>Contact Me</h2>
-            <Link to='/'>My Github</Link>
-            <Link to='/'>My LinkedIn</Link>
-            <Link to='/'>My Profile Page</Link>
-            <Link to='/contact'>Contact Me</Link>
+            <Link to={{ pathname: "https://github.com/tayphill13" }} target="_blank">My Github</Link>
+            <Link to={{ pathname: "https://www.linkedin.com/in/taylorphillipsportland/" }} target="_blank">My LinkedIn</Link>
+            <Link to={{ pathname: "https://tayphill13.github.io/Profile-Page/" }} target="_blank">My Profile Page</Link>
+            <Link to={{ pathname: "mailto:taylorphillips133@gmail.com"}}>taylorphillips133@gmail.com</Link>
             {/* <Link to='/'></Link> */}
           </div>
         </div>
