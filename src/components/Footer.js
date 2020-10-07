@@ -29,10 +29,10 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
-            <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            <Link to={{ pathname: "https://instagram.com"}} target="_blank">Instagram</Link>
+            <Link to={{ pathname: "https://facebook.com"}} target="_blank">Facebook</Link>
+            <Link to={{ pathname: "https://youtube.com"}} target="_blank">Youtube</Link>
+            <Link to={{ pathname: "https://twitter.com"}} target="_blank">Twitter</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
