@@ -9,7 +9,7 @@ import About from './components/pages/About';
 import SignUp from './components/pages/SignUp';
 import Login from './components/pages/Login';
 import Music from './components/pages/Music';
-import { AuthProvider } from './Auth';
+import { AuthProvider } from './components/Auth';
 
 function App() {
   return (
