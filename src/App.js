@@ -7,23 +7,26 @@ import Home from './components/pages/Home';
 import Artists from './components/pages/Artists';
 import About from './components/pages/About';
 import SignUp from './components/pages/SignUp';
-import SignIn from './components/pages/SignIn';
+import Login from './components/pages/Login';
 import Music from './components/pages/Music';
+import { AuthProvider } from './Auth';
 
 function App() {
   return (
-    <Router>
-      <Navbar />
-      <Switch>
-        <Route path='/' exact component={Home} />
-        <Route path='/artists' component={Artists} />
-        <Route path='/about' component={About} />
-        <Route path='/music' component={Music} />
-        <Route path='/sign-up' component={SignUp} />
-        <Route path='/sign-in' component={SignIn} />
-      </Switch>
-      <Footer />
-    </Router>
+    <AuthProvider>
+      <Router>
+        <Navbar />
+        <Switch>
+          <Route path='/' exact component={Home} />
+          <Route path='/artists' component={Artists} />
+          <Route path='/about' component={About} />
+          <Route path='/music' component={Music} />
+          <Route path='/sign-up' component={SignUp} />
+          <Route path='/login' component={Login} />
+        </Switch>
+        <Footer />
+      </Router>
+    </AuthProvider>
   );
 }
 

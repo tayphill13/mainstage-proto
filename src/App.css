@@ -10,7 +10,7 @@
 .about,
 .music,
 .contact,
-.sign-in,
+.login,
 .sign-up {
   display: flex;
   height: 90vh;
@@ -56,7 +56,7 @@
   font-size: 100px;
 }
 
-.sign-in {
+.login {
   background-image: url('/videos/musicCar.jpg');
   background-position: center;
   background-size: cover;
