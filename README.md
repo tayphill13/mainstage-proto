@@ -10,7 +10,7 @@ Hosting is here:  Check out [MainStage](https://main-stage-proto.web.app)
 *<h2 align ='center'>Staying home doesn't have to mean missing out!*
 
 
-<h3 align ='center'>•<a href='#requirements'> Requirements</a> •<a href='#setup'> Setup</a> •<a href='#technologies-used'> Technologies</a> •<a href='#❤️contributors'> Contributors</a> •<a href='#known-bugs'> Bugs</a> •<a href='#protecting-your-data'> Protecting Data</a> •<a href='#cloning'> Cloning</a></h3>
+<h3 align ='center'>•<a href='#requirements'> Requirements</a> •<a href='#setup'> Setup</a> •<a href='#technologies-used'> Technologies</a> •<a href='#known-bugs'> Bugs</a> •<a href='#protecting-your-data'> Protecting Data</a> •<a href='#cloning'> Cloning</a></h3>
 
 
 <h3 align='center'>MainStage was developed with music artists in mind that want to continue to provide their new content to fans. Eventually I would like to have the ability for a music artist to stream a live show or at the very least, upload a new song to a virtual mp3 player embedded in the site.</h3>
@@ -53,6 +53,8 @@ with the root project folder open in your code editor, execute the following in 
 
 ``npm start`` to get it running on your localhost at https://localhost:3000
 
+For full list of commands, see <a href="##available-scripts" >below</a>
+
 <br>
 
 # **PROTECTING YOUR DATA**
@@ -83,7 +85,7 @@ _[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)_
 
 _[Font Awesome for icons/logos](https://fontawesome.com/icons?d=gallery)_
 
-_[Tristan's MakeMeTakeMeReadme]("but you can't have it")_
+Tristan's MakeMeTakeMeReadme
 
 <br>
 
@@ -95,12 +97,6 @@ _**Some styling bugs with the sign up and login pages when viewing on a smaller 
 
 <br>
 
-# **❤️Contributors**
-
-<br>
-
-<br>
-
 ![alt text][logo]
 
 [logo]: https://img.shields.io/bower/l/bootstrap 'MIT License'
@@ -108,7 +104,7 @@ _**Some styling bugs with the sign up and login pages when viewing on a smaller 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## **Available Scripts**
 
 In the project directory, you can run:
 
