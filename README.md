@@ -19,7 +19,7 @@ Hosting is here:  Check out [MainStage](https://main-stage-proto.web.app)
 
 _[Visual Studio Code](https://code.visualstudio.com/)_
 
-_[npm](https://npmjs.org/en/)_ or _[yarn](https://yarnpkg.com/)_
+_[npm](https://npmjs.org/en/)_ or _[yarn](https://yarnpkg.com/)_ package manager
 
 # **SETUP**
 
@@ -28,7 +28,7 @@ _[npm](https://npmjs.org/en/)_ or _[yarn](https://yarnpkg.com/)_
 * Copy the repo link as shown in the image below
 
 
-[![cloning](https://i.gyazo.com/b98d7a599635c26878d1b957ac250398.gif 'How to clone')](https://gyazo.com/b98d7a599635c26878d1b957ac250398)
+[![Cloning](https://i.gyazo.com/af0da6486cf4b42b2b15a7a363faa9b2.gif 'how to clone')](https://gyazo.com/af0da6486cf4b42b2b15a7a363faa9b2)
 
 * Paste the link in the field provided by VsCode as thown in the image below
 
