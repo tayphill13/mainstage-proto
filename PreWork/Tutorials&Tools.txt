@@ -1,0 +1,27 @@
+Inspiration:
+-The inspiration for this project came from the current quarantine state we find ourselves in and the need for music fans to still be able to connect with live shows and content without having to go to Live Venues.  Also, the live shows are mostly cancelled or postponed until who knows when?
+-I came across a website that offers much of what I had in mind, called Side Door, at  sidedooraccess.com.  I noticed using the dev tools that much of the site has been developed with React, firebase, webpack, stripe, google api and squarespace.  I really only felt comfortable building with react and webpack -- I went with React and node.js.
+
+Some tools:
+React
+node.js
+CSS
+Firebase auth
+Firebase Hosting
+FontAwesome for icons
+Gyazo app for gifs-maker
+
+
+
+A few tutorials that really helped with building out a newer looking react app from scratch:
+https://www.youtube.com/watch?v=unr4s3jd9qA  <-- for firebase auth addition with hooks
+https://www.youtube.com/watch?v=I2UBjN5ER4s  <-- help with building create-react-app with hooks and screen size dynamics
+https://www.youtube.com/watch?v=8t0vNu2fCCM&t=4593s <-- this tutorial taught me about Gatsby and ended up just being a rough draft
+
+Also used various other youtube snippets and medium articles to assist with tricky css and the react hooks
+
+
+Stretch Goals: 
+-User will have the ability to upload media (Picture, Audio, Video?)
+-Message Board where artist can put up postings about upcoming shows or other events, new content drops
+-Ability for user to enter email into subscribe box in the footer
