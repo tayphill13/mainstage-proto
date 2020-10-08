@@ -51,6 +51,8 @@ with the root project folder open in your code editor, execute the following in 
 
 ``npm run build``
 
+``npm start`` to get it running on your localhost at https://localhost:3000
+
 <br>
 
 # **PROTECTING YOUR DATA**
@@ -79,9 +81,9 @@ _[Firebase - For Auth and Hosting](https://www.firebase.google.com/)_
 
 _[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)_
 
-_[Font Awesome for icons/logos](https://fontawesome.com/icons?d=gallery)
+_[Font Awesome for icons/logos](https://fontawesome.com/icons?d=gallery)_
 
-_[Tristan's MakeMeTakeMeReadme]("but you can't have it")
+_[Tristan's MakeMeTakeMeReadme]("but you can't have it")_
 
 <br>
 
