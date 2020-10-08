@@ -4,11 +4,13 @@ Inspiration:
 
 Some tools:
 React
-node.js
 CSS
 Firebase auth
 Firebase Hosting
 FontAwesome for icons
+npm
+HTML
+Markdown
 Gyazo app for gifs-maker
 
 

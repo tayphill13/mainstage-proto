@@ -1,6 +1,105 @@
 Hosting is here:  Check out [MainStage](https://main-stage-proto.web.app)
 
 
+<h1 align='center'><img width='900' height='450' src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/84d1dc46883455.5868f5e2a5313.gif'><br>
+
+
+**<h1 align = 'center'>MainStage**
+
+
+*<h2 align ='center'>Staying home doesn't have to mean missing out!*
+
+
+<h3 align ='center'>•<a href='#requirements'> Requirements</a> •<a href='#setup'> Setup</a> •<a href='#technologies-used'> Technologies</a> •<a href='#❤️contributors'> Contributors</a> •<a href='#known-bugs'> Bugs</a> •<a href='#protecting-your-data'> Protecting Data</a> •<a href='#cloning'> Cloning</a></h3>
+
+
+<h3 align='center'>MainStage was developed with music artists in mind that want to continue to provide their new content to fans. Eventually I would like to have the ability for a music artist to stream a live show or at the very least, upload a new song to a virtual mp3 player embedded in the site.</h3>
+
+# **REQUIREMENTS**
+
+_[Visual Studio Code](https://code.visualstudio.com/)_
+
+_[Node.js](https://nodejs.org/en/)_
+
+# **SETUP**
+
+## **CLONING**
+
+* Copy the repo link as shown in the image below
+
+
+[![cloning](https://i.gyazo.com/b98d7a599635c26878d1b957ac250398.gif 'How to clone')](https://gyazo.com/b98d7a599635c26878d1b957ac250398)
+
+* Paste the link in the field provided by VsCode as thown in the image below
+
+* You will be prompted to open the directory once you have cloned it. Select 'open'
+
+![cloning](https://coding-assets.s3-us-west-2.amazonaws.com/img/clone-github2.gif 'Cloning from Github within VSCode')
+
+<br>
+
+# **PROTECTING YOUR DATA**
+
+* Step 1: create a .gitignore file in the top level of your project directory. populate the file as shown in step 1 of the image below.
+
+* Step 2: commit that .gitignore file (this prevents your sensitive information like your API key, or Auth key being shown to others). **DO NOT PROCEED UNTIL YOU DO THIS!**
+
+![setup](https://coding-assets.s3-us-west-2.amazonaws.com/img/readme-image-3.jpg 'Set up instructions')
+
+<br>
+
+# **TECHNOLOGIES USED**
+
+_[Visual Studio Code](https://code.visualstudio.com/)_
+
+_[React](https://reactjs.org/docs/getting-started.html)_
+
+_[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)_
+
+_[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)_
+
+_[npm](https://www.npmjs.com/)_
+
+_[Firebase - For Auth and Hosting](https://www.firebase.google.com/)_
+
+_[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)_
+
+_[Font Awesome for icons/logos](https://fontawesome.com/icons?d=gallery)
+
+<br>
+
+# **KNOWN BUGS**
+
+
+_**Some styling bugs with the sign up and login pages when viewing on a smaller screen as of:** 10.7.2020_
+
+<br>
+
+# **INSTALL**
+
+## **INSTALLING WITH NODE**
+
+
+with the root project folder open in your code editor, execute the following in your terminal:
+
+``cd mainstage-proto``
+
+``npm install``
+
+``npm run build``
+
+<br>
+
+# **❤️Contributors**
+
+<br>
+
+<br>
+
+![alt text][logo]
+
+[logo]: https://img.shields.io/bower/l/bootstrap 'MIT License'
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
