@@ -66,9 +66,10 @@
 }
 
 .music {
-  background-image: url('/images/new-artist2.jpg');
+  background-image: url('/videos/exampleVideo.gif');
+  background-color: rgb(196, 196, 196);
   background-position: center;
-  background-size: cover;
+  background-size: auto;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;

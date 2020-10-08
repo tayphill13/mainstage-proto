@@ -1,5 +1,6 @@
 import React from 'react';
 import './Footer.css';
+import app from './base'
 import { Link } from 'react-router-dom';
 import { Button } from './Button';
 
@@ -90,6 +91,7 @@ function Footer() {
           </div>
         </div>
       </section>
+      <button onClick={() => app.auth().signOut()}>Sign Out</button>
     </div>
   );
 }

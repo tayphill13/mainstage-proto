@@ -1,5 +1,5 @@
 import React, { useCallback, useContext } from 'react';
-import { withRouter, Redirect } from 'react-router-dom'
+import { withRouter, Redirect } from 'react-router-dom';
 import '../../App.css';
 import app from '.././base.js';
 import { AuthContext } from '.././Auth';
@@ -37,12 +37,10 @@ const Login = ({ history }) => {
         </label>
         <label>
           Password
-          <input name='password' type='email' placeholder='Password' />
+          <input name='password' type='password' placeholder='Password' />
         </label>
         <button type='submit'>Log in</button>
       </form>
-      <h1 className='login'>Returning Artist Login</h1>
-      <button onClick={() => app.auth().signOut()}>Sign out</button>
     </div>
   );
 };

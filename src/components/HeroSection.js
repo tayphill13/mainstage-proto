@@ -3,6 +3,7 @@ import '../App.css';
 import { Button } from './Button';
 import './HeroSection.css';
 import { Link } from 'react-router-dom';
+// import app from './base';
 
 function HeroSection() {
   return (
@@ -10,7 +11,7 @@ function HeroSection() {
       <h1>Live Music and Artist Content</h1>
       <p>You can enjoy your favorite artists from Home!</p>
       <div className='hero-btns'>
-        <Link to='/about'>
+        <Link to='/artists'>
         <Button
           className='btns'
           buttonStyle='btn--outline'
