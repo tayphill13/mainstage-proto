@@ -19,7 +19,7 @@ Hosting is here:  Check out [MainStage](https://main-stage-proto.web.app)
 
 _[Visual Studio Code](https://code.visualstudio.com/)_
 
-_[Node.js](https://nodejs.org/en/)_
+_[npm](https://npmjs.org/en/)_ or _[yarn](https://yarnpkg.com/)_
 
 # **SETUP**
 
@@ -65,6 +65,8 @@ _[Firebase - For Auth and Hosting](https://www.firebase.google.com/)_
 _[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)_
 
 _[Font Awesome for icons/logos](https://fontawesome.com/icons?d=gallery)
+
+_[Tristan's MakeMeTakeMeReadme]("but you can't have it")
 
 <br>
 
