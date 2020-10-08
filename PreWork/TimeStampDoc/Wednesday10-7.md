@@ -14,3 +14,8 @@
 4:00pm - Establishing a project pitch, taking notes on what my application CAN do as well as mentioning some of the stretch things I did not get to
 
 5:30pm - Time to call it a day, checking in with a friend about today's progress, and plan for tomorrow, continuing to work through project pitch and gathering all my resources, tools used.
+
+
+8:30pm - Back to work to get the right images set up and to work on project pitch and adjusting MVP.  
+
+9:15pm - Also working on Readme!!!
