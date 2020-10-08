@@ -17,7 +17,7 @@ Gyazo app for gifs-maker
 
 A few tutorials that really helped with building out a newer looking react app from scratch:
 https://www.youtube.com/watch?v=unr4s3jd9qA  <-- for firebase auth addition with hooks
-https://www.youtube.com/watch?v=I2UBjN5ER4s  <-- help with building create-react-app with hooks and screen size dynamics
+https://www.youtube.com/watch?v=I2UBjN5ER4s  <-- help with building create-react-app w/ hooks (useState, useEffect) and screen size dynamics
 https://www.youtube.com/watch?v=8t0vNu2fCCM&t=4593s <-- this tutorial taught me about Gatsby and ended up just being a rough draft
 
 Also used various other youtube snippets and medium articles to assist with tricky css and the react hooks
