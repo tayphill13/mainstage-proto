@@ -53,7 +53,7 @@ with the root project folder open in your code editor, execute the following in 
 
 ``npm start`` to get it running on your localhost at https://localhost:3000
 
-For full list of commands, see <a href="##available-scripts" >below</a>
+For full list of commands, see <a href="#available-scripts" >below</a>
 
 <br>
 
