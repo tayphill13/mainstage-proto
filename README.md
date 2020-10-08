@@ -73,13 +73,15 @@ _[Visual Studio Code](https://code.visualstudio.com/)_
 
 _[React](https://reactjs.org/docs/getting-started.html)_
 
-_[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)_
+_[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)_ & _[JSX](https://reactjs.org/docs/introducing-jsx.html)_
 
 _[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)_
 
 _[npm](https://www.npmjs.com/)_
 
 _[Firebase - For Auth and Hosting](https://www.firebase.google.com/)_
+
+_[GitHub](https://www.github.com/)_
 
 _[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)_
 

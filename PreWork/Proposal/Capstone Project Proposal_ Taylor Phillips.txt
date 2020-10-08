@@ -5,7 +5,6 @@ Name of Project: “Main Stage”
 Absolute minimum features:
 -Artist is viewed as primary ‘User’
 -User Authentication - “Log in”, “Create an Account”
--User Authorization to distinguish accounts - Can you CRUD or just View?
 -Blogging ability for Artists, or message to the fans kind of thing.
 -Potentially blogging ability for fans in a separate section - “fan experiences”
 -Upload picture
@@ -18,9 +17,10 @@ What tools, frameworks, libraries, API’s might you need?
 -Firebase to store users, pictures, profile pages, music mp3’s
 -I’ll use figma for my diagramming
 -More than likely will use bootstrap for styling and organization
+-Will need a logo maker or icon site like Font Awesome
 
 
-If I finish the MVP with time to spare I’d like to work on these things:
+If I finish the MVP with time to spare I’d like to work on these Stretch goals:
 -Message Board (with upvote and downvote capability)
 -Cloud Storage
 -Upload/Store Audio Clip

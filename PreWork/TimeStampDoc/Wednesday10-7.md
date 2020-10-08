@@ -19,3 +19,4 @@
 8:30pm - Back to work to get the right images set up and to work on project pitch and adjusting MVP.  
 
 9:15pm - Also working on Readme!!!
+10:30pm - Made some finishing touches on my readme
