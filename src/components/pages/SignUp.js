@@ -20,8 +20,8 @@ const SignUp = ({ history }) => {
 
   return (
     <div>
-      <h1 className='sign-up'>Sign up</h1>
-      <form onSubmit={handleSignUp}>
+      <h1 className='sign-up-banner'>Sign up</h1>
+      <form className='sign-up' onSubmit={handleSignUp}>
         <label>
           Email
           <input name='email' type='email' placeholder='Email' />
