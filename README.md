@@ -38,6 +38,21 @@ _[npm](https://npmjs.org/en/)_ or _[yarn](https://yarnpkg.com/)_ package manager
 
 <br>
 
+# **INSTALL**
+
+## **INSTALLING WITH NODE**
+
+
+with the root project folder open in your code editor, execute the following in your terminal:
+
+``cd mainstage-proto``
+
+``npm install``
+
+``npm run build``
+
+<br>
+
 # **PROTECTING YOUR DATA**
 
 * Step 1: create a .gitignore file in the top level of your project directory. populate the file as shown in step 1 of the image below.
@@ -75,20 +90,6 @@ _[Tristan's MakeMeTakeMeReadme]("but you can't have it")
 
 _**Some styling bugs with the sign up and login pages when viewing on a smaller screen as of:** 10.7.2020_
 
-<br>
-
-# **INSTALL**
-
-## **INSTALLING WITH NODE**
-
-
-with the root project folder open in your code editor, execute the following in your terminal:
-
-``cd mainstage-proto``
-
-``npm install``
-
-``npm run build``
 
 <br>
 
