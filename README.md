@@ -1,4 +1,4 @@
-Hosting is here:  Check out [MainStage](https://main-stage-proto.web.app)
+Hosting is here:  Check it out live [MainStage](https://main-stage-proto.web.app)
 
 
 <h1 align='center'><img width='900' height='450' src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/84d1dc46883455.5868f5e2a5313.gif'><br>
